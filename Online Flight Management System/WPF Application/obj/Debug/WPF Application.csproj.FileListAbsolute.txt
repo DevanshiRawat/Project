@@ -15,3 +15,20 @@ C:\Users\Gaurav Agrawal\Downloads\@Capgemini\Assignments\Sprint\Group 4\Online F
 C:\Users\Gaurav Agrawal\Downloads\@Capgemini\Assignments\Sprint\Group 4\Online Flight Management System\WPF Application\obj\Debug\WPF Application.csproj.CoreCompileInputs.cache
 C:\Users\Gaurav Agrawal\Downloads\@Capgemini\Assignments\Sprint\Group 4\Online Flight Management System\WPF Application\obj\Debug\WPF Application.exe
 C:\Users\Gaurav Agrawal\Downloads\@Capgemini\Assignments\Sprint\Group 4\Online Flight Management System\WPF Application\obj\Debug\WPF Application.pdb
+G:\#\@Capgemini\Project\Online Flight Management System\WPF Application\bin\Debug\WPF Application.exe.config
+G:\#\@Capgemini\Project\Online Flight Management System\WPF Application\bin\Debug\WPF Application.exe
+G:\#\@Capgemini\Project\Online Flight Management System\WPF Application\bin\Debug\WPF Application.pdb
+G:\#\@Capgemini\Project\Online Flight Management System\WPF Application\obj\Debug\WPF Application.csprojAssemblyReference.cache
+G:\#\@Capgemini\Project\Online Flight Management System\WPF Application\obj\Debug\Login_Window.g.cs
+G:\#\@Capgemini\Project\Online Flight Management System\WPF Application\obj\Debug\MainWindow.g.cs
+G:\#\@Capgemini\Project\Online Flight Management System\WPF Application\obj\Debug\App.g.cs
+G:\#\@Capgemini\Project\Online Flight Management System\WPF Application\obj\Debug\WPF Application_MarkupCompile.cache
+G:\#\@Capgemini\Project\Online Flight Management System\WPF Application\obj\Debug\WPF Application_MarkupCompile.lref
+G:\#\@Capgemini\Project\Online Flight Management System\WPF Application\obj\Debug\Login_Window.baml
+G:\#\@Capgemini\Project\Online Flight Management System\WPF Application\obj\Debug\MainWindow.baml
+G:\#\@Capgemini\Project\Online Flight Management System\WPF Application\obj\Debug\WPF Application.g.resources
+G:\#\@Capgemini\Project\Online Flight Management System\WPF Application\obj\Debug\WPF_Application.Properties.Resources.resources
+G:\#\@Capgemini\Project\Online Flight Management System\WPF Application\obj\Debug\WPF Application.csproj.GenerateResource.cache
+G:\#\@Capgemini\Project\Online Flight Management System\WPF Application\obj\Debug\WPF Application.csproj.CoreCompileInputs.cache
+G:\#\@Capgemini\Project\Online Flight Management System\WPF Application\obj\Debug\WPF Application.exe
+G:\#\@Capgemini\Project\Online Flight Management System\WPF Application\obj\Debug\WPF Application.pdb
