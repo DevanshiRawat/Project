@@ -1,0 +1,22 @@
+﻿<Window x:Class="WPF_Application.Login_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Application"
+        mc:Ignorable="d"
+        Title="Login_Window" Height="450" Width="800"
+        WindowState="Maximized">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="image.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Label Content="Login" HorizontalAlignment="Center" FontSize="36" Margin="151,64,544,0" VerticalAlignment="Top" FontFamily="Comic Sans MS" FontWeight="Bold" Foreground="#FF8D3030"/>
+        <Label Content="Username" HorizontalAlignment="Left" Margin="75,147,0,0" VerticalAlignment="Top" Height="35" Width="88" FontWeight="Bold" Foreground="White" FontSize="16"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="75,192,0,0" VerticalAlignment="Top" Height="35" Width="88" FontWeight="Bold" Foreground="White" FontSize="16"/>
+
+        <TextBox Name="txtUser" HorizontalAlignment="Left" Height="25" Margin="246,147,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <PasswordBox Name="txtPass" HorizontalAlignment="Left" Height="25" Margin="246,187,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Login" HorizontalAlignment="Left" Margin="75,239,0,0" VerticalAlignment="Top" Width="291" Background="White" FontWeight="Bold" FontSize="16" FontFamily="Ink Free"/>
+    </Grid>
+</Window>
